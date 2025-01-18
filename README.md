@@ -4,9 +4,10 @@ I have created this repository to share with other developers some documentation
 ## Summary of Swift Concurrency related proposals
 ### Until January 2025
 This is a summary of the Swift proposals related to Swift Concurrency, since 2021 to January 2025. 
+
 They are grouped by Swift version. Also there is color-coding.
 For example: all greens are related to actors... all dark greens are distributed actors.
-The ones without colors, are like this because I could group them to any of the main topics, but they are more general proposals.
+The ones without color, I could not group them to any of the main topics, they are more general proposals.
 
 <img width="762" alt="Screenshot 2025-01-14 at 8 55 17 PM" src="https://github.com/user-attachments/assets/9ba6894b-4c4e-42d3-baf4-10ce37205d99" />
 
