@@ -79,6 +79,43 @@ class AWorker {
 }
 ```
 
+# Structured Concurrency
+<img width="1108" alt="Screenshot 2025-01-25 at 8 06 57 PM" src="https://github.com/user-attachments/assets/b894e19d-8ef6-47de-9f27-e78d3b8c5796" />
+
+## Task's states
+<img width="1104" alt="Screenshot 2025-01-25 at 8 08 37 PM" src="https://github.com/user-attachments/assets/ca120fbe-4b8c-4f22-a0e7-a1aa2dbf7645" />
+
+## Task's structure
+<img width="1100" alt="Screenshot 2025-01-25 at 8 08 46 PM" src="https://github.com/user-attachments/assets/222b71b1-8c67-47d4-9e6d-a31734d25977" />
+
+## Task and child taks
+<img width="1107" alt="Screenshot 2025-01-25 at 8 08 53 PM" src="https://github.com/user-attachments/assets/14007ebb-a1d8-4e87-ab3a-065c7e53ad56" />
+
+## Tasks and jobs
+<img width="1100" alt="Screenshot 2025-01-25 at 8 09 00 PM" src="https://github.com/user-attachments/assets/621a407a-2bc6-4275-8c48-7fe58f2c9ea9" />
+
+# Executors
+<img width="1098" alt="Screenshot 2025-01-25 at 8 09 08 PM" src="https://github.com/user-attachments/assets/8ea71f70-6da2-48c6-ab90-46249c1fbc03" />
+
+## Executors and priority
+<img width="1101" alt="Screenshot 2025-01-25 at 8 09 15 PM" src="https://github.com/user-attachments/assets/eb15e27f-ff62-4365-a750-4b5eb93f5e8f" />
+
+## Task and main
+<img width="1106" alt="Screenshot 2025-01-25 at 8 09 22 PM" src="https://github.com/user-attachments/assets/e9cbb0c5-dd82-4282-b56a-e15146eb0621" />
+
+## Task and cancellation
+<img width="1111" alt="Screenshot 2025-01-25 at 8 09 30 PM" src="https://github.com/user-attachments/assets/c159c4a8-7f94-476e-ac40-892cdc15f876" />
+
+## Unstructure Task
+<img width="1109" alt="Screenshot 2025-01-25 at 8 09 37 PM" src="https://github.com/user-attachments/assets/daed6b88-b18c-4bb5-9067-a0ebe89b120a" />
+
+## TaskGroups and discardable task groups
+<img width="441" alt="Screenshot 2025-01-25 at 8 09 52 PM" src="https://github.com/user-attachments/assets/c4cb9ab6-c034-4711-86ce-63289e431fc2" />
+
+# Where do async functions run?
+<img width="1110" alt="Screenshot 2025-01-25 at 8 06 42 PM" src="https://github.com/user-attachments/assets/7ae65025-3a8f-47db-9bf7-7003f9dd866a" />
+
+
 # List of readings I recommend
 While working on these conceptual maps and summaries, I based them in the following Swift Proposals and Apple Documentation:
 
