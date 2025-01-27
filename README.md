@@ -115,6 +115,14 @@ class AWorker {
 # Where do async functions run?
 <img width="1110" alt="Screenshot 2025-01-25 at 8 06 42 PM" src="https://github.com/user-attachments/assets/7ae65025-3a8f-47db-9bf7-7003f9dd866a" />
 
+# Task executor preference
+<img width="884" alt="Screenshot 2025-01-27 at 2 37 48 PM" src="https://github.com/user-attachments/assets/2484fea8-338a-4b50-940d-c45fb4de4bf1" />
+
+<img width="871" alt="Screenshot 2025-01-27 at 2 37 59 PM" src="https://github.com/user-attachments/assets/c6d1aaef-a99f-401a-ba92-936ab9aac073" />
+
+# Actor context inheritance
+<img width="880" alt="Screenshot 2025-01-27 at 2 38 08 PM" src="https://github.com/user-attachments/assets/60fa4aa0-6926-48a8-929c-975c04feb1ac" />
+
 
 # List of readings I recommend
 While working on these conceptual maps and summaries, I based them in the following Swift Proposals and Apple Documentation:
